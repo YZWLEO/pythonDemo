@@ -1,0 +1,8 @@
+>>> from mydoctest import multipl
+>>> multipl(3,4)
+12
+>>> multipl(5,6)
+30
+>>> multipl(5,"g")
+'ggggggg'
+# python -m doctest -v  609-01-doctest.text
